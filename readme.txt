@@ -1,5 +1,7 @@
 eBay Product Details Getter
 
+View demo video in root: video_sample.mp4.
+
 This app was created as an alternative to the now discontinued TurboLister, built for those with large eBay catalogues in mind. The program has been tested successfully on a date range containing 110,000 listings.
 
 You will need an eBay developers account to generate a production User Token using Auth’n’Auth. You will have to supply the program with this token.
